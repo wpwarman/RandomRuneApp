@@ -1,2 +1,2 @@
-RandomTarotCardApp
+RandomRuneApp
 ==================
